@@ -1,0 +1,14 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.17",
+    "node": "^13.3.0"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node-dev": "^1.0.0-pre.44"
+  }
+}
